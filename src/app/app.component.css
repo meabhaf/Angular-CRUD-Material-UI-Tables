@@ -1,0 +1,54 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.btn {
+  background-color: #4287f5;
+  color: white;
+}
+
+.toolbar {
+  background-color: #f50cca;
+}
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+td,
+th {
+  width: 25%;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.btnEdit {
+  padding: 10px 15px;
+  font-size: 12px;
+  text-align: center;
+  cursor: pointer;
+  color: #fff;
+  background-color: blue;
+  border: none;
+  border-radius: 5px;
+  width: 75px;
+}
+
+.btnDelete {
+  padding: 10px 15px;
+  font-size: 12px;
+  text-align: center;
+  cursor: pointer;
+  color: #fff;
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  width: 75px;
+}
